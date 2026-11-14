@@ -1,5 +1,5 @@
 {
-  "name":"homelab-app",
+  "name":"@homelab",
   "packageManager": "pnpm@12.18.0",
   "engines": {
     "node": ">=26.13.1 <27.0.0"
