@@ -1,0 +1,11 @@
+{
+  "name": "@homelab/api",
+  "version": "1.0.0",
+  "author": "Patrick Dyer",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@homelab/shared": "workspace:*"
+  }
+}
